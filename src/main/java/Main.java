@@ -29,9 +29,9 @@ public class Main extends HttpServlet {
         writer.print("Country = " + country + " " + formattedDateTime);
     }
 }
-                /*  Europe/Minsk
-                 America/New_York
-                Europe/London
-                          Asia/Tokyo
-                          Australia/Sydney
-                          Europe/Moscow*/
+/*  Europe/Minsk
+    America/New_York
+    Europe/London
+    Asia/Tokyo
+    Australia/Sydney
+    Europe/Moscow   */
